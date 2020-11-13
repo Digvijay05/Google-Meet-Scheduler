@@ -11,8 +11,8 @@ app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 
 // Values
-let email = "201851015@iiitvadodara.ac.in";
-let password = "";
+let email = "djgamingttt@gmail.com";
+let password = "9824983757";
 let head = true;
 let strict = true;
 
